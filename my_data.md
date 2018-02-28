@@ -26,3 +26,6 @@ List of dpw maintained street trees including: Planting date, species, and locat
 
 1. J. Warzocha. [London Crime Data, 2008-2016](https://www.kaggle.com/jboysen/london-crime/data)
 Crime Counts, by Borough, Category, and Month.
+
+1. A. Novik [Death in the United States 2015](https://www.kaggle.com/cdc/mortality/data).
+This dataset is a collection of data about deceased people in the US in 2015.
